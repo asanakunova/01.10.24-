@@ -98,6 +98,14 @@
 
 // ПИСАТЬ КОД ЗДЕСЬ
 
+// function removeElem(arr, element) {
+//   return arr.filter((item) => item !== element);
+// }
+
+// let arr = [2, "hello", true, "world", 5, "js"];
+
+// console.log(removeElem(arr, "world"));
+
 //? Задание №6
 // Напишите функцию palindrom(word), принимающая один аргумент word.
 // Функция, должна выводить в консоль true, если строка является палиндромом, в обратном случае false.
